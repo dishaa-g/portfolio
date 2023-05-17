@@ -1,0 +1,86 @@
+.disha{
+    border-radius: 100%;
+}
+.home-page{
+    margin: 0;
+    background-color:#E4D0D0;
+    width: 100%;
+    height:600px;
+    
+}
+.nav-pills{
+    color: dark;
+}
+.heading{ 
+    margin-top: 100px;
+   text-align: center;
+   font-family: 'Caveat', cursive;
+    color:#594545 ;
+    font-size: 100px;
+   
+   
+}
+.star2{
+    height: 100px;
+    margin-left: 200px;
+}
+.star1{
+    position: absolute;
+    height: 100px;
+margin-left: 1050px;
+}
+.about{
+    color:#594545;
+}
+.description{
+   
+ color:#9E7676 ; 
+ line-height: 30px;
+ 
+ 
+
+}
+.images{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+.header{ margin: auto;
+    border-style: dotted;
+    color: #5c1c03;
+    border-width: 6px;
+    width: 4%;
+   border-bottom: none;
+    
+}
+.about{
+    padding-top: 0;
+    text-align: center;
+}
+.heading2{
+    color: #5c1c03;
+}
+.about{
+    color:  #5c1c03;
+}
+.table{
+    gap: 5px;
+    text-align: center;
+    border-style: none;
+    
+}
+.connect{
+    margin-left: 60px;
+    color: #594545;
+    width: 500px;
+    line-height: 30px;
+    
+}
+.connect-img{
+   margin-left: 800px;
+  margin-top: -200px;
+    width : 500px;
+    height : 300px;
+    
+}
+
